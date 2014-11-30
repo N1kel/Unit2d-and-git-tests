@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Samplescript : MonoBehaviour {
+public class SampleScript : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
+	void Start () { 
+		Debug.Log ("Start");
 	
 	}
 	
